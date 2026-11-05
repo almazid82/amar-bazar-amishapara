@@ -112,7 +112,7 @@
 /* Mobile welcome screen: photo-led rider handoff with a compact action panel. */
 .mobile-benefits{display:none}
 @media(max-width:640px){
-  .hero.shell{display:grid;grid-template-rows:55% 45%;height:max(620px,calc(100svh - 112px));min-height:0;padding:0;background:#0c5038;color:#fff}
+  .hero.shell{display:grid;grid-template-rows:50% 50%;height:max(620px,calc(100svh - 112px));min-height:0;padding:0;background:#0c5038;color:#fff}
   .hero-art.delivery-hero{inset:0 0 auto;height:60%;width:100%;z-index:0}
   .delivery-hero-image{object-position:58% 37%;object-fit:cover}
   .hero-art.delivery-hero:before{filter:blur(8px);opacity:.45}
