@@ -1,46 +1,71 @@
-# Amar Bazar — local market, delivered
 
-Amar Bazar is a responsive, static pilot storefront for ordering food, groceries, and everyday essentials from participating shops around Amishapara Bazar. The pilot demonstrates how a local team can check shop availability, confirm the final total with the customer, and then arrange delivery.
+# 🛒 Amar Bazar – Amishapara
 
-## Preview
+### Your Neighborhood Market, Reimagined.
 
-The site is deployed with GitHub Pages. Once Pages is enabled for the repository, every push to `main` automatically publishes the latest version.
+🌐 **Live Website:** [Visit Amar Bazar](https://almazid82.github.io/amar-bazar-amishapara)
 
-## Run locally
+---
 
-Open `index.html` in a browser. The project is plain HTML, CSS, and JavaScript; it has no build step or package installation.
+## 📌 About the Project
 
-## Pilot features
+**Amar Bazar** is a community-focused online marketplace designed to connect customers with local shops in Amishapara Bazar, Bangladesh.
 
-- Browse local shops, categories, and product listings.
-- View restaurant menus by section and add items to a cart.
-- Select a delivery area and see the pilot delivery charge included in the order estimate.
-- Submit an order request, then follow the shop-check and customer-approval steps before preparation.
-- Use the local staff preview to record availability and revised item prices.
-- Open the delivery-area map, share device location, or contact the team through the configured phone and WhatsApp links.
-- Open the separate delivery-rider information page at `rider.html`.
+The platform aims to make everyday shopping easier by bringing traditional local markets into the digital world. Customers can explore products, place orders, and get their essential groceries and daily necessities delivered to their doorsteps.
 
-## Update and publish
+## ✨ Key Features
 
-1. Edit the site files in this repository. Product and menu data are maintained in `app.js`; styles are in `styles.css` and `rider.css`.
-2. Save the changes, then commit and push them to the `main` branch.
-3. The **Deploy static site to GitHub Pages** workflow runs automatically after each push. When it finishes, GitHub Pages serves the new version at the repository's Pages URL.
+- 🛍️ Browse local products and groceries.
+- 🔎 Search for desired products.
+- 🛒 Add products to the shopping cart.
+- 📦 Place orders conveniently online.
+- 💰 Verify product availability and prices before confirmation.
+- 🚚 Local home delivery service.
+- 📍 Delivery coverage for Amishapara and nearby areas.
+- 💬 Customer communication and support.
 
-To publish a new version in VS Code, use the Source Control panel: review the changed files, enter a short commit message, commit, then select **Sync Changes** or **Push**. The automatic deployment starts after the push reaches GitHub.
+## 🔄 How It Works
 
-To enable Pages the first time, open **Settings → Pages** in the GitHub repository and choose **GitHub Actions** as the build and deployment source. The workflow is already included in `.github/workflows/deploy.yml`.
+1. **Explore:** Browse available products.
+2. **Add to Cart:** Select your desired items.
+3. **Place Order:** Submit your order and delivery details.
+4. **Verification:** Product availability and prices are confirmed with local shops.
+5. **Confirmation:** The customer approves the final order.
+6. **Delivery:** Products are delivered to the customer's doorstep.
 
-## Project files
+## 🎯 Project Objectives
 
-- `index.html` — customer-facing storefront.
-- `app.js` — product, shop, delivery-area, cart, order, and staff-preview behavior.
-- `styles.css` — storefront layout and responsive styles.
-- `rider.html` and `rider.css` — rider information page.
-- `assets/` — brand artwork, food photography, generated delivery imagery, and font files.
-- `.github/workflows/deploy.yml` — automatic GitHub Pages deployment on pushes to `main`.
+- Digitize traditional neighborhood shopping.
+- Support local shops and small businesses.
+- Make everyday shopping more convenient.
+- Build a community-based delivery ecosystem.
+- Create new opportunities through local digital entrepreneurship.
 
-## Pilot data and production readiness
+## 📍 Target Location
 
-This is a front-end pilot, not a production ordering service. Cart and order records are stored in the current browser's local storage; staff actions are not shared across devices and there is no authentication or server-side database. Do not enter real customer information.
+**Amishapara Bazar and Nearby Areas, Bangladesh.**
 
-Before taking real orders, verify all shop participation, menu items, prices, delivery areas and fees, phone/WhatsApp links, opening hours, map pins, and delivery promises. The photos are illustrative. Add a secure backend, staff authentication, privacy and data-retention rules, and operational monitoring before a public commercial launch.
+## 📞 Contact
+
+- **Phone:** 01884989479
+- **Website:** [Amar Bazar – Amishapara](https://almazid82.github.io/amar-bazar-amishapara)
+
+## 🚀 Project Status
+
+**Pilot Project | In Development**
+
+The platform is being developed to improve the local shopping experience. Product availability, prices, and delivery arrangements are subject to confirmation.
+
+## 👨‍💻 Developer
+
+**Shamsul Al Mazid**
+
+Statistics | Dhaka College
+
+---
+
+### 💚 Our Vision
+
+To connect local communities with local businesses through simple, accessible, and reliable digital solutions.
+
+**Amar Bazar – Local Shops, Personal Service, Delivered to Your Doorstep.**
