@@ -112,12 +112,12 @@
 /* Mobile welcome screen: photo-led rider handoff with a compact action panel. */
 .mobile-benefits{display:none}
 @media(max-width:640px){
-  .hero.shell{display:grid;grid-template-rows:50% 50%;height:max(620px,calc(100svh - 112px));min-height:0;padding:0;background:#0c5038;color:#fff}
+  .hero.shell{display:grid;grid-template-columns:minmax(0,1fr);grid-template-rows:50% 50%;height:max(620px,calc(100svh - 112px));min-height:0;padding:0;background:#0c5038;color:#fff}
   .hero-art.delivery-hero{inset:0 0 auto;height:60%;width:100%;z-index:0}
   .delivery-hero-image{object-position:58% 37%;object-fit:cover}
   .hero-art.delivery-hero:before{filter:blur(8px);opacity:.45}
   .hero-art.delivery-hero:after{background:linear-gradient(180deg,rgba(12,80,56,0) 48%,rgba(12,80,56,.12) 70%,#0c5038 100%)}
-  .hero-copy{grid-row:2;align-self:stretch;display:flex;flex-direction:column;justify-content:center;width:100%;margin:0;padding:14px 22px 20px;background:#0c5038;color:#fff}
+  .hero-copy{grid-row:2;align-self:stretch;display:flex;flex-direction:column;justify-content:center;width:100%;margin:0;padding:14px 22px 20px;background:#0c5038;color:#fff;transform:translateY(-28px)}
   .hero-copy .eyebrow{color:#d1e6d2;font-size:8px;letter-spacing:.13em}
   .hero-copy .eyebrow-line{background:#e7b547}
   .hero-copy h1{max-width:none;color:#fff;font-size:clamp(34px,9vw,43px);line-height:1.02;margin:9px 0 8px;text-shadow:none}
