@@ -1,123 +1,267 @@
 🛒 Amar Bazar | আমার বাজার
 
-<p align="center">
-  <img src="assets/amar-bazar-logo.svg" alt="Amar Bazar Logo" width="180" />
-</p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=16A34A&center=true&vCenter=true&width=650&lines=Your+Neighborhood+Market%2C+Reimagined;Local+Shopping%2C+Made+Simple;Your+Market%2C+Our+Responsibility" alt="Animated tagline" />
-</p><p align="center">
-  <b>আপনার বাজার আমাদের দায়িত্ব</b>
-</p><p align="center">
-  A community-focused local shopping and delivery platform connecting customers with participating shops in Amishapara Bazar, Sonaimuri, Noakhali, Bangladesh.
-</p><p align="center">
-  <a href="https://almazid82.github.io/amar-bazar-amishapara">🌐 Live Website</a> •
-  <a href="https://github.com/almazid82/amar-bazar-amishapara">💻 GitHub Repository</a>
-</p><p align="center">
-  <img src="https://img.shields.io/badge/Project-Local%20Commerce-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Pilot%20%7C%20In%20Development-orange?style=flat-square" />
-</p>---
+<div align="center"><img src="assets/amar-bazar-logo.svg" alt="Amar Bazar Logo" width="220" /><br /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=16A34A&center=true&vCenter=true&width=650&lines=আপনার+বাজার+আমাদের+দায়িত্ব;Your+Neighborhood+Market%2C+Reimagined;Local+Shopping%2C+Made+Easier" alt="Animated Tagline" /><br />আপনার বাজার আমাদের দায়িত্ব।
 
-📌 About Amar Bazar
+Your Market, Our Responsibility.
 
-Amar Bazar (আমার বাজার) is a local-commerce initiative designed to bring the traditional neighborhood shopping experience into the digital world.
+<br />"Project" (https://img.shields.io/badge/Project-Amar%20Bazar-16A34A?style=for-the-badge)
+"Platform" (https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+"Status" (https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
+"License" (https://img.shields.io/badge/License-To%20Be%20Decided-lightgrey?style=for-the-badge)
 
-Based in Amishapara Bazar, Sonaimuri, Noakhali, the project aims to connect local customers with participating neighborhood shops through a convenient digital platform.
+</div>---
 
-Our goal is simple: make everyday shopping easier while supporting local businesses and creating a reliable community-based delivery service.
+📌 প্রকল্প পরিচিতি
 
-Unlike a conventional marketplace, Amar Bazar combines digital ordering with human-assisted shop verification to ensure customers receive accurate product availability, pricing, and delivery information before an order is confirmed.
+Amar Bazar (আমার বাজার) একটি স্থানীয় অনলাইন বাজার ও ডেলিভারি সেবা তৈরির উদ্যোগ। এর মূল উদ্দেশ্য হলো এলাকার মানুষকে ঘরে বসে নিত্যপ্রয়োজনীয় পণ্য কেনাকাটার একটি সহজ, নির্ভরযোগ্য ও প্রযুক্তিনির্ভর মাধ্যম প্রদান করা।
 
-✨ Key Features
+প্রকল্পটির প্রাথমিক কার্যক্রমের কেন্দ্র হিসেবে নির্ধারণ করা হয়েছে আমিশাপাড়া বাজার, সোনাইমুড়ী, নোয়াখালী এবং এর আশপাশের অনুমোদিত এলাকাগুলো।
 
-- 🛍️ Browse local groceries and everyday essentials.
-- 🔎 Search and discover products.
-- 🛒 Add products to a persistent shopping cart.
-- 📦 Submit convenient online order requests.
-- 🏪 Verify product availability directly with local shops.
-- 💰 Confirm actual prices before finalizing orders.
-- 🔄 Handle unavailable products and possible substitutions.
-- 📞 Obtain explicit customer approval of the final quote.
-- 🚚 Coordinate local home delivery.
-- 📍 Serve Amishapara and approved nearby areas.
-- 💬 Provide human-assisted customer support.
+সাধারণ অনলাইন শপিংয়ের মতো এখানে শুধু পণ্য নির্বাচন করে অর্ডার করাই শেষ ধাপ নয়। অর্ডার পাওয়ার পর সংশ্লিষ্ট দোকানের সঙ্গে যোগাযোগ করে পণ্যের বর্তমান মজুত ও মূল্য যাচাই করা হবে। এরপর ক্রেতাকে চূড়ান্ত মূল্য ও ডেলিভারির তথ্য জানানো হবে। ক্রেতার সম্মতি পাওয়ার পরই অর্ডারটি নিশ্চিত করা হবে।
 
-🔄 How It Works
+এই পদ্ধতির মাধ্যমে ভুল মূল্য, পণ্য না পাওয়া, অপ্রয়োজনীয় অর্ডার বাতিল এবং ক্রেতা-বিক্রেতার মধ্যে ভুল বোঝাবুঝি কমানোই আমাদের লক্ষ্য।
 
-Amar Bazar follows a two-step verification process to make local online shopping more reliable.
+🎯 আমাদের লক্ষ্য ও উদ্দেশ্য
+
+আমরা স্থানীয় বাজারব্যবস্থাকে আরও সহজ, স্বচ্ছ এবং প্রযুক্তিবান্ধব করতে চাই।
+
+আমাদের প্রধান উদ্দেশ্যগুলো হলো:
+
+- সহজ কেনাকাটা: মোবাইল অ্যাপের মাধ্যমে ঘরে বসে প্রয়োজনীয় পণ্য খুঁজে পাওয়া ও অর্ডার অনুরোধ পাঠানো।
+- স্থানীয় ব্যবসার ডিজিটাল রূপান্তর: এলাকার দোকান ও ব্যবসায়ীদের অনলাইনভিত্তিক ক্রেতার কাছে পৌঁছানোর সুযোগ তৈরি করা।
+- মূল্যের স্বচ্ছতা: দোকানের সঙ্গে যোগাযোগ করে পণ্যের বর্তমান মূল্য যাচাই করা।
+- নির্ভরযোগ্য অর্ডার: ক্রেতার চূড়ান্ত সম্মতি ছাড়া কোনো অর্ডার নিশ্চিত না করা।
+- সময় ও শ্রম সাশ্রয়: বাজারে সরাসরি যাওয়ার প্রয়োজন কমিয়ে সুবিধাজনক কেনাকাটার সুযোগ তৈরি করা।
+- স্থানীয় কর্মসংস্থান: ভবিষ্যতে স্থানীয় পর্যায়ে ডেলিভারি ও পরিচালনাসংক্রান্ত কাজের সুযোগ সৃষ্টি করা।
+
+🛍️ আমাদের সেবার ধারণা
+
+Amar Bazar একটি স্থানীয় বাজারকেন্দ্রিক প্ল্যাটফর্ম। প্রাথমিকভাবে এর কার্যক্রম কয়েকটি প্রধান পণ্যশ্রেণিকে কেন্দ্র করে পরিকল্পনা করা হয়েছে।
+
+পণ্যের ধরন| পরিকল্পিত সেবা
+🥬 নিত্যপ্রয়োজনীয় পণ্য| চাল, ডাল, তেল, মসলা ও অন্যান্য মুদি পণ্য
+🥚 খাদ্যপণ্য| ডিম, দুধ ও অন্যান্য প্রয়োজনীয় খাদ্যসামগ্রী
+🍔 রেস্টুরেন্ট ও খাবার| অংশগ্রহণকারী রেস্টুরেন্টের খাবার
+🧴 দৈনন্দিন প্রয়োজন| ব্যক্তিগত পরিচর্যা ও গৃহস্থালির পণ্য
+💊 ফার্মেসি| ভবিষ্যৎ সম্ভাবনা; প্রয়োজনীয় লাইসেন্স ও অনুমোদন সাপেক্ষে
+
+গুরুত্বপূর্ণ: সব পণ্যশ্রেণির সেবা এখনো চালু নয়। বিশেষ করে ফার্মেসি বা ওষুধ সরবরাহের কোনো কার্যক্রমকে বর্তমানে চালু সেবা হিসেবে বিবেচনা করা যাবে না।
+
+🔄 অর্ডার প্রক্রিয়া: কীভাবে কাজ করবে?
+
+Amar Bazar-এর সবচেয়ে গুরুত্বপূর্ণ বৈশিষ্ট্য হলো এর দুই ধাপের অর্ডার নিশ্চিতকরণ পদ্ধতি।
+
+অনলাইন অর্ডারের ক্ষেত্রে পণ্যের দাম ও মজুত সবসময় হালনাগাদ নাও থাকতে পারে। তাই সরাসরি অর্ডার নিশ্চিত না করে প্রথমে যাচাই এবং পরে ক্রেতার সম্মতি নেওয়া হবে।
+
+অর্ডারের ধাপগুলো
+
+ধাপ ১ — পণ্য নির্বাচন
+
+ক্রেতা অ্যাপ থেকে প্রয়োজনীয় পণ্য নির্বাচন করে অর্ডার অনুরোধ পাঠাবেন।
+
+ধাপ ২ — পণ্য যাচাই
+
+Amar Bazar-এর পরিচালনাকারী সংশ্লিষ্ট দোকানের সঙ্গে যোগাযোগ করে পণ্যের মজুত ও বর্তমান মূল্য যাচাই করবেন।
+
+ধাপ ৩ — চূড়ান্ত প্রস্তাব
+
+পণ্য পাওয়া না গেলে বিকল্প পণ্য, পরিবর্তিত পরিমাণ বা বাদ দেওয়া পণ্যের তথ্য ক্রেতাকে জানানো হবে। একই সঙ্গে চূড়ান্ত মূল্য, ডেলিভারি চার্জ ও সম্ভাব্য সময় জানানো হবে।
+
+ধাপ ৪ — ক্রেতার সম্মতি
+
+ক্রেতা অ্যাপ অথবা ফোনের মাধ্যমে চূড়ান্ত প্রস্তাবে সম্মতি দেবেন। ফোনে সম্মতি দেওয়া হলে পরিচালনাকারী সেটি সিস্টেমে নথিভুক্ত করবেন।
+
+ধাপ ৫ — অর্ডার নিশ্চিতকরণ
+
+ক্রেতার সম্মতি পাওয়ার পরই অর্ডারটি নিশ্চিত হবে এবং পরবর্তী প্রস্তুতি শুরু হবে।
+
+ধাপ ৬ — ডেলিভারি
+
+পণ্য প্রস্তুত হলে নির্ধারিত এলাকায় ক্রেতার কাছে পৌঁছে দেওয়া হবে।
+
+অর্ডার প্রক্রিয়ার চিত্র
 
 flowchart TD
-    A["🛍️ Browse Products"] --> B["🛒 Submit Order Request"]
-    B --> C["🏪 Shop Verifies Availability"]
-    C --> D["💰 Final Price & Delivery Fee"]
-    D --> E["📞 Customer Receives Final Quote"]
-    E --> F{"Customer Approval?"}
-    F -->|Approved| G["✅ Order Confirmed"]
-    F -->|Not Approved| H["❌ Cancel or Revise"]
-    G --> I["📦 Product Preparation"]
-    I --> J["🚚 Home Delivery"]
+    A["ক্রেতা পণ্য নির্বাচন করেন"] --> B["অর্ডার অনুরোধ পাঠান"]
+    B --> C["পরিচালনাকারী অর্ডার গ্রহণ করেন"]
+    C --> D["দোকানে পণ্য ও মূল্য যাচাই"]
+    D --> E["চূড়ান্ত মূল্য ও ডেলিভারি তথ্য জানানো"]
+    E --> F{"ক্রেতার সম্মতি?"}
+    F -->|হ্যাঁ| G["অর্ডার নিশ্চিত"]
+    F -->|না| H["অর্ডার বাতিল বা সংশোধন"]
+    G --> I["পণ্য সংগ্রহ ও প্রস্তুত"]
+    I --> J["ডেলিভারি"]
+    J --> K["অর্ডার সম্পন্ন"]
 
-Important: Submitting an order request does not automatically confirm the order. Confirmation takes place only after shop verification and explicit customer approval.
+এই প্রক্রিয়ার মাধ্যমে আমরা ক্রেতার আস্থা ও অর্ডারের নির্ভুলতাকে অগ্রাধিকার দিতে চাই।
 
-🎯 Our Objectives
+📱 প্ল্যাটফর্ম ও প্রযুক্তিগত কাঠামো
 
-- Digitize traditional neighborhood shopping.
-- Empower local shops and small businesses.
-- Make everyday shopping more accessible and convenient.
-- Build a community-based delivery ecosystem.
-- Encourage local entrepreneurship through technology.
-- Develop a reliable and scalable local-commerce model.
+Amar Bazar-এর উন্নয়ন একটি Android-first পদ্ধতিতে এগিয়ে নেওয়া হচ্ছে। অর্থাৎ প্রথমে Android ব্যবহারকারীদের জন্য একটি কার্যকর মোবাইল অ্যাপ তৈরি করাই প্রধান লক্ষ্য।
 
-📍 Service Area
+১. Customer Android App
 
-Primary Location: Amishapara Bazar, Sonaimuri, Noakhali, Bangladesh.
+ক্রেতাদের জন্য তৈরি অ্যাপে পর্যায়ক্রমে যেসব সুবিধা যুক্ত করার পরিকল্পনা রয়েছে:
 
-The initial service model focuses on sourcing products from participating shops in Amishapara Bazar and delivering to Amishapara and approved surrounding areas.
+- স্বাগত ও অনবোর্ডিং স্ক্রিন।
+- ব্যবহারকারী নিবন্ধন ও লগইন।
+- পণ্যের ক্যাটাগরি ও তালিকা।
+- পণ্যের বিস্তারিত তথ্য।
+- সার্চ ও পণ্য খোঁজার সুবিধা।
+- Shopping Cart।
+- Delivery Address ব্যবস্থাপনা।
+- Checkout ও অর্ডার অনুরোধ।
+- অর্ডারের চূড়ান্ত মূল্য অনুমোদন।
+- অর্ডার হিস্ট্রি ও স্ট্যাটাস।
+- প্রোফাইল ব্যবস্থাপনা।
 
-Delivery coverage, product availability, and delivery charges are subject to operational verification.
+২. Admin Dashboard
 
-🧰 Technology
+অ্যাডমিন বা পরিচালনাকারীদের জন্য পৃথক ওয়েব ড্যাশবোর্ড তৈরির পরিকল্পনা রয়েছে।
 
-The Android application is being developed using:
+এর মাধ্যমে পরিচালনাকারীরা পর্যায়ক্রমে:
 
-- React Native
-- Expo
-- TypeScript
-- Expo Router
-- Supabase
-- PostgreSQL
+- নতুন অর্ডার দেখতে পারবেন।
+- অর্ডারের পণ্য যাচাই করতে পারবেন।
+- দোকান ও পণ্যের তথ্য পরিচালনা করতে পারবেন।
+- মূল্য ও মজুত যাচাইয়ের তথ্য যুক্ত করতে পারবেন।
+- ক্রেতার কাছে চূড়ান্ত প্রস্তাব পাঠাতে পারবেন।
+- ক্রেতার সম্মতি নথিভুক্ত করতে পারবেন।
+- অর্ডারের বর্তমান অবস্থা পরিচালনা করতে পারবেন।
 
-The existing public website is built using HTML, CSS, and JavaScript.
+৩. Backend ও Database
 
-🚀 Project Status
+মোবাইল অ্যাপ এবং পরিচালনা ব্যবস্থার মধ্যে তথ্য আদান-প্রদানের জন্য একটি নিরাপদ Backend তৈরি করা হচ্ছে।
 
-<kbd> Pilot Project | In Development </kbd>
+এখানে ব্যবহৃত প্রযুক্তিগুলো:
 
-Amar Bazar is evolving from a website prototype into an Android-first local shopping platform.
+প্রযুক্তি| ব্যবহার
+React Native| Android অ্যাপ তৈরি
+Expo| অ্যাপ ডেভেলপমেন্ট ও বিল্ড
+TypeScript| নির্ভরযোগ্য ও গোছানো কোড
+Expo Router| অ্যাপের Navigation
+Supabase| Backend ও Authentication
+PostgreSQL| Database
+Edge Functions| সার্ভার-সাইড অর্ডার প্রসেসিং
+HTML, CSS, JavaScript| প্রাথমিক ওয়েবসাইট
 
-The customer application and backend foundations are under development. Full production operations, verified product catalogs, administrative tools, and end-to-end order processing are still being completed and tested.
+🏗️ প্রকল্পের আর্কিটেকচার
 
-📞 Contact
+flowchart TB
+    A["Customer"] --> B["Android Application"]
+    B --> C["Backend API / Edge Functions"]
+    C --> D[("Supabase Database")]
+    C --> E["Admin Dashboard"]
+    E --> F["Local Shops"]
+    F --> E
+    E --> C
+    C --> B
+    B --> A
 
-- Phone: 01884989479
-- Website: "Amar Bazar – Amishapara" (https://almazid82.github.io/amar-bazar-amishapara)
-- WhatsApp: "Contact Amar Bazar" (https://wa.me/message/HZWKCZLY65VXN1)
+প্রাথমিক আর্কিটেকচারে ক্রেতার অ্যাপ, Backend, Database এবং Admin Dashboard আলাদা দায়িত্ব পালন করবে।
 
-👨‍💻 Developer
+এর ফলে ভবিষ্যতে নতুন ফিচার যুক্ত করা, তথ্য পরিচালনা এবং নিরাপত্তা বজায় রাখা সহজ হবে।
+
+🔐 নিরাপত্তা ও তথ্য ব্যবস্থাপনা
+
+একটি অনলাইন বাজার ব্যবস্থায় ব্যবহারকারীর তথ্য এবং অর্ডারের নির্ভুলতা অত্যন্ত গুরুত্বপূর্ণ।
+
+তাই প্রকল্পের প্রযুক্তিগত পরিকল্পনায় নিচের বিষয়গুলোকে গুরুত্ব দেওয়া হচ্ছে:
+
+- ব্যবহারকারীর ব্যক্তিগত তথ্য সুরক্ষিত রাখা।
+- প্রতিটি ক্রেতাকে শুধু নিজের অনুমোদিত তথ্য দেখার সুযোগ দেওয়া।
+- Admin ও Staff-এর জন্য নির্দিষ্ট Role-based Access Control।
+- পণ্যের মূল্য ও ডেলিভারি চার্জ সার্ভার থেকে যাচাই করা।
+- অর্ডারের চূড়ান্ত অনুমোদন সংরক্ষণ করা।
+- অর্ডারের পরিবর্তন ও স্ট্যাটাসের ইতিহাস রাখা।
+- অননুমোদিত Database Access প্রতিরোধ করা।
+
+📍 কার্যক্রমের এলাকা
+
+প্রাথমিকভাবে Amar Bazar-এর কার্যক্রমের কেন্দ্র:
+
+আমিশাপাড়া বাজার, সোনাইমুড়ী, নোয়াখালী, বাংলাদেশ।
+
+পরবর্তী সময়ে আশপাশের যেসব এলাকায় কার্যকরভাবে পণ্য সরবরাহ করা সম্ভব হবে, সেগুলো যাচাই করে সেবার আওতায় আনার পরিকল্পনা রয়েছে।
+
+আমাদের লক্ষ্য প্রথমে একটি নির্দিষ্ট এলাকায় কার্যকর ও নির্ভরযোগ্য সেবা তৈরি করা, তারপর বাস্তব অভিজ্ঞতার ভিত্তিতে ধীরে ধীরে সম্প্রসারণ করা।
+
+🚧 বর্তমান উন্নয়ন অবস্থা
+
+প্রকল্পটি বর্তমানে উন্নয়ন ও পরীক্ষামূলক পর্যায়ে রয়েছে।
+
+কাজ| বর্তমান অবস্থা
+প্রাথমিক ওয়েবসাইট| তৈরি
+ওয়েবসাইট প্রকাশ| GitHub Pages-এ প্রকাশিত
+Android অ্যাপের ভিত্তি| উন্নয়নাধীন
+অ্যাপের UI ও Navigation| তৈরি ও পরীক্ষাধীন
+Supabase Backend| কোড ও কাঠামো প্রস্তুত
+Database Schema| তৈরি
+Order Workflow| পরিকল্পিত ও কোডে বাস্তবায়নাধীন
+Admin Dashboard| এখনো সম্পূর্ণ তৈরি হয়নি
+বাস্তব দোকানের তথ্য যাচাই| চলমান/বাকি
+পূর্ণাঙ্গ অর্ডার ও ডেলিভারি পরীক্ষা| বাকি
+বাণিজ্যিক কার্যক্রম| এখনো চালু নয়
+
+আমরা এখনো পূর্ণাঙ্গ বাণিজ্যিক সেবা চালু করেছি—এমন দাবি করছি না। বাস্তব ব্যবহারকারীর মাধ্যমে পরীক্ষা, দোকানের সঙ্গে সমন্বয় এবং পরিচালনাগত প্রস্তুতি সম্পন্ন হওয়ার পর পরবর্তী সিদ্ধান্ত নেওয়া হবে।
+
+🗺️ ভবিষ্যৎ পরিকল্পনা
+
+Amar Bazar-কে একটি নির্ভরযোগ্য স্থানীয় ডিজিটাল বাজারব্যবস্থায় রূপান্তর করার জন্য পর্যায়ক্রমে কাজ করার পরিকল্পনা রয়েছে।
+
+পরিকল্পিত উন্নয়ন ধাপ:
+
+1. Android Customer App-এর কার্যকারিতা সম্পূর্ণ করা।
+2. Backend ও Database পরীক্ষা করা।
+3. Admin Dashboard তৈরি করা।
+4. স্থানীয় দোকান ও পণ্যের তথ্য যাচাই করা।
+5. নির্দিষ্ট এলাকায় Pilot Testing পরিচালনা করা।
+6. ক্রেতার অভিজ্ঞতা ও সমস্যার ভিত্তিতে প্রয়োজনীয় পরিবর্তন আনা।
+7. পরিচালনাগত প্রস্তুতি সম্পন্ন হলে সীমিত পরিসরে সেবা চালু করা।
+8. ভবিষ্যতে নতুন পণ্যশ্রেণি ও অনুমোদিত এলাকায় কার্যক্রম সম্প্রসারণ করা।
+
+🌱 আমাদের ভবিষ্যৎ ভাবনা
+
+আমরা শুধু একটি অনলাইন শপিং অ্যাপ তৈরি করতে চাই না। আমাদের দীর্ঘমেয়াদি লক্ষ্য হলো স্থানীয় বাজার, ক্রেতা, দোকানদার এবং সেবাদানকারীদের মধ্যে একটি কার্যকর ডিজিটাল সংযোগ তৈরি করা।
+
+প্রযুক্তিকে ব্যবহার করে স্থানীয় ব্যবসার সুযোগ বৃদ্ধি, মানুষের সময় সাশ্রয় এবং কেনাকাটার অভিজ্ঞতাকে আরও সহজ করাই Amar Bazar-এর মূল দর্শন।
+
+আমাদের বিশ্বাস, বড় পরিবর্তনের শুরু হতে পারে নিজের এলাকার ছোট একটি উদ্যোগ থেকেই।
+
+---
+
+📞 যোগাযোগ
+
+<div align="center">Amar Bazar | আমার বাজার
+
+আপনার বাজার আমাদের দায়িত্ব।
+
+📍 আমিশাপাড়া বাজার, সোনাইমুড়ী, নোয়াখালী
+
+📱 মোবাইল: 01884989479
+
+🌐 ওয়েবসাইট: "Amar Bazar" (https://almazid82.github.io/amar-bazar-amishapara)
+
+💬 WhatsApp: "যোগাযোগ করুন" (https://wa.me/message/HZWKCZLY65VXN1)
+
+💻 GitHub Repository: "almazid82/amar-bazar-amishapara" (https://github.com/almazid82/amar-bazar-amishapara)
+
+</div>👨‍💻 Developer
 
 Shamsul Al Mazid
 
 Statistics | Dhaka College
 
-"GitHub Profile" (https://github.com/almazid82)
+এই প্রকল্পটি স্থানীয় বাজারব্যবস্থাকে প্রযুক্তির মাধ্যমে আরও সহজ ও কার্যকর করার একটি উদ্যোগ।
 
 ---
 
-💚 Our Vision
+<div align="center">🛒 Amar Bazar
 
-To bring neighborhood markets closer to people through accessible technology, trusted local businesses, and reliable personal service.
+আপনার বাজার আমাদের দায়িত্ব।
 
-<p align="center">
-  <b>Amar Bazar — Your Market, Our Responsibility.</b>
-</p><p align="center">
-  <i>Local Shops. Personal Service. Delivered to Your Doorstep.</i>
-</p>
+Your Market, Our Responsibility.
+
+⭐ ভালো লাগলে Repository-টি Star দিয়ে পাশে থাকুন।
+
+</div>
