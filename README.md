@@ -5,9 +5,16 @@
   <img src="assets/amar-bazar-logo.svg" alt="Amar Bazar Logo" width="230" />
 
   <br><br>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=16A34A&center=true&vCenter=true&width=700&lines=Your+Neighborhood+Market;Local+Shopping%2C+Made+Simple;Your+Market%2C+Our+Responsibility"
+    alt="Amar Bazar Animated Tagline"
+  />
+</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=16A34A&center=true&vCenter=true&width=700&lines=আপনার+বাজার+আমাদের+দায়িত্ব;Your+Neighborhood+Market%2C+Reimagined;Local+Shopping.+A+Better+Experience." alt="Animated Tagline" />
-
+<h3 align="center">আপনার বাজার আমাদের দায়িত্ব।</h3>
+<p align="center"><i>Your Market, Our Responsibility.</i></p>
+  
   <br><br>
 
   <h3>আপনার বাজার আমাদের দায়িত্ব।</h3>
