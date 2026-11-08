@@ -1,15 +1,37 @@
 🛒 Amar Bazar — আমার বাজার
 
-<div align="center"><img src="assets/amar-bazar-logo.svg" alt="Amar Bazar Logo" width="230" /><br /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=16A34A&center=true&vCenter=true&width=700&lines=আপনার+বাজার+আমাদের+দায়িত্ব;Your+Neighborhood+Market%2C+Reimagined;Local+Shopping.+A+Better+Experience." alt="Amar Bazar Animated Tagline" /><br />আপনার বাজার আমাদের দায়িত্ব।
+<div align="center">
 
-Your Market, Our Responsibility.
+  <img src="assets/amar-bazar-logo.svg" alt="Amar Bazar Logo" width="230" />
 
-<br />""Website" (https://img.shields.io/badge/🌐_VISIT_WEBSITE-16A34A?style=for-the-badge)" (https://almazid82.github.io/amar-bazar-amishapara)
-""GitHub" (https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/almazid82/amar-bazar-amishapara)
-"Platform" (https://img.shields.io/badge/PLATFORM-ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-"Status" (https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=for-the-badge)
+  <br><br>
 
-</div>---
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=16A34A&center=true&vCenter=true&width=700&lines=আপনার+বাজার+আমাদের+দায়িত্ব;Your+Neighborhood+Market%2C+Reimagined;Local+Shopping.+A+Better+Experience." alt="Animated Tagline" />
+
+  <br><br>
+
+  <h3>আপনার বাজার আমাদের দায়িত্ব।</h3>
+  <p><i>Your Market, Our Responsibility.</i></p>
+
+  <br>
+
+  <a href="https://almazid82.github.io/amar-bazar-amishapara">
+    <img src="https://img.shields.io/badge/WEBSITE-Visit%20Amar%20Bazar-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website">
+  </a>
+
+  <a href="https://github.com/almazid82/amar-bazar-amishapara">
+    <img src="https://img.shields.io/badge/GITHUB-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/PLATFORM-ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Platform">
+
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=for-the-badge&logo=github&logoColor=white" alt="Development Status">
+
+</div>
+
+---
 
 🌿 আমাদের গল্প | A Local Idea, A Bigger Vision
 
