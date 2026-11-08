@@ -13,12 +13,7 @@
 </p>
 
 <h3 align="center">আপনার বাজার আমাদের দায়িত্ব।</h3>
-<p align="center"><i>Your Market, Our Responsibility.</i></p>
-  
-  <br><br>
-
-  <h3>আপনার বাজার আমাদের দায়িত্ব।</h3>
-  <p><i>Your Market, Our Responsibility.</i></p>
+<p align="center"><i>Your Market, Our Responsibility.</i></p
 
   <br>
 
