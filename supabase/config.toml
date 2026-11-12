@@ -1,0 +1,44 @@
+project_id = "amar-bazar"
+
+[api]
+enabled = true
+schemas = ["public", "graphql_public"]
+extra_search_path = ["public", "extensions"]
+max_rows = 500
+
+[db.seed]
+enabled = true
+sql_paths = ["./seed.sql"]
+
+[auth]
+enabled = true
+site_url = "http://127.0.0.1:8081"
+additional_redirect_urls = ["amarbazar://**"]
+jwt_expiry = 3600
+enable_signup = true
+
+[auth.sms]
+enable_signup = true
+enable_confirmations = true
+template = "Your Amar Bazar verification code is {{ .Code }}"
+
+[functions.create-order]
+verify_jwt = true
+
+[functions.create-whatsapp-order-draft]
+verify_jwt = true
+
+[functions.customer-order-decision]
+verify_jwt = true
+
+[functions.customer-cancel-order]
+verify_jwt = true
+
+[functions.order-operations]
+verify_jwt = true
+
+[functions.notification-worker]
+verify_jwt = false
+
+[functions.whatsapp-webhook]
+verify_jwt = false

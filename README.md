@@ -275,3 +275,6 @@ Your Market, Our Responsibility.
 ⭐ ভালো লাগলে GitHub Repository-টি Star দিয়ে পাশে থাকুন।
 
 </div>
+## Admin Dashboard and WhatsApp Pilot
+
+The local Phase 5 admin dashboard and WhatsApp order-request workflow are included in this repository. Follow [ADMIN_SETUP.md](ADMIN_SETUP.md) and [WHATSAPP_SETUP.md](WHATSAPP_SETUP.md) to preview the dashboard and understand the safe WhatsApp test mode. Live Supabase and Meta WhatsApp delivery are not configured; the website’s WhatsApp order link opens a prefilled customer message that must be sent manually.

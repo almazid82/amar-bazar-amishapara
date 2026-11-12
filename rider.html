@@ -21,11 +21,16 @@
           <div><span class="benefit-icon"><svg viewBox="0 0 24 24"><path d="M12 3 4 7v5c0 5 3.4 8 8 9 4.6-1 8-4 8-9V7l-8-4Z"/><path d="m9 12 2 2 4-5"/></svg></span><b>Team support</b><small>Help when you need it</small></div>
         </div>
         <div class="rider-dots" aria-hidden="true"><i class="active"></i><i></i><i></i></div>
-        <div class="rider-actions"><a class="rider-primary" href="https://wa.me/message/HZWKCZLY65VXN1" target="_blank" rel="noreferrer">Get started <span>→</span></a><a class="rider-secondary" href="tel:01884989479">Rider support</a></div>
+        <div class="rider-actions"><a class="rider-primary" data-whatsapp-support href="#support" target="_blank" rel="noreferrer">Get started <span>→</span></a><a class="rider-secondary" data-support-phone href="#support">Rider support</a></div>
       </div>
       <div class="rider-photo"><img src="assets/delivery/amar-bazar-hero.jpg" alt="Smiling delivery rider in a green cap handing a market order to a customer" /><span class="photo-wash"></span></div>
     </section>
     <footer class="rider-footer"><span>Amar Bazar</span><span>Amishapara Bazar · Noakhali</span><a href="index.html">Back to market</a></footer>
   </main>
+  <script type="module">
+    import { webConfig } from "./web-config.js";
+    document.querySelectorAll("[data-whatsapp-support]").forEach((link) => link.href = webConfig.whatsappSupportLink || "#support");
+    document.querySelectorAll("[data-support-phone]").forEach((link) => link.href = webConfig.supportPhone ? `tel:${webConfig.supportPhone}` : "#support");
+  </script>
 </body>
 </html>

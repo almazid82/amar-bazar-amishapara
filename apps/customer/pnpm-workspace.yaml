@@ -1,0 +1,2 @@
+minimumReleaseAgeExclude:
+  - react-native-svg@15.16.1

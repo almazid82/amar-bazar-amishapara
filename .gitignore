@@ -4,3 +4,10 @@ Desktop.ini
 .vscode/
 .idea/
 *.log
+.pnpm-cache/
+.pnpm-home/
+/work/amar-bazar-pnpm-cache/
+/work/amar-bazar-pnpm-store/
+.env
+.env.*
+!.env.example
